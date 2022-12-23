@@ -1,2 +1,1 @@
-# carousel
-carousel using basic HTML CSS and JS
+Carousel using basic HTML CSS and JS
